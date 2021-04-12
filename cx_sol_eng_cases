@@ -1,1 +1,10 @@
-
+<html>
+  <p align="center">
+<iframe
+  src="https://data.sendbird.com/embed/dashboards-next/367?allow_login_screen=true"
+  width="1300"
+  height="1000"
+  frameborder="0">
+</iframe>
+  </p>
+</html>
